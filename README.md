@@ -8,9 +8,17 @@ This project implements a contactless stress detection system using facial therm
 ✨ Key Features
 
 ✔️ Contactless detection (no wearable devices)
+
+
 ✔️ Multimodal analysis (thermal + physiological signals)
+
+
 ✔️ CNN-LSTM model for spatial + temporal learning
+
+
 ✔️ Explainable AI (SHAP & Attention) for interpretability
+
+
 ✔️ Generates a stress risk score (0–1)
 
 🛠️ Tech Stack
