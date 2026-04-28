@@ -21,6 +21,7 @@ This project presents a contactless stress detection system that leverages facia
 
 
 
+
 🛠️ Tech Stack
 
 1.Python
@@ -32,6 +33,7 @@ This project presents a contactless stress detection system that leverages facia
 4.TensorFlow / PyTorch (deep learning)
 
 5.Matplotlib (visualization)
+
 
 
 
@@ -52,6 +54,7 @@ This project presents a contactless stress detection system that leverages facia
 7.Generate final stress risk score
 
 
+
 🧪 Experimental Setup
 
 The system operates in three phases:
@@ -61,6 +64,7 @@ Baseline: Normal relaxed state
 Stress: Induced stress condition
 
 Recovery: Return to normal state
+
 
 
 📈 Applications
