@@ -39,3 +39,20 @@ This project presents a contactless stress detection system that leverages facia
 
 5.Matplotlib (visualization)
 
+
+
+⚙️ Methodology
+
+1.Capture facial thermal video
+
+2.Segment key facial regions
+
+3.Extract thermal and physiological features (temperature, heart rate, respiration)
+
+4.Combine features into a unified representation
+
+5.Analyze using a CNN-LSTM model
+
+6.Apply Explainable AI techniques
+
+7.Generate final stress risk score
