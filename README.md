@@ -23,4 +23,19 @@ This project presents a contactless stress detection system that leverages facia
 
 5.Outputs a quantitative stress risk score
 
+🛠️ Tech Stack
+
+1.Python
+
+
+2.OpenCV (image processing)
+
+
+3.NumPy (data handling)
+
+
+4.TensorFlow / PyTorch (deep learning)
+
+
+5.Matplotlib (visualization)
 
