@@ -9,10 +9,18 @@ This project presents a contactless stress detection system that leverages facia
 ✨ Key Features
 
 
-Contactless stress detection (no wearable devices required)
-Multimodal analysis combining thermal and physiological data
-CNN-LSTM model for spatial and temporal pattern learning
-Explainable AI (SHAP, attention) for model interpretability
-Outputs a quantitative stress risk score
+1.Contactless stress detection (no wearable devices required)
+
+
+2.Multimodal analysis combining thermal and physiological data
+
+
+3.CNN-LSTM model for spatial and temporal pattern learning
+
+
+4.Explainable AI (SHAP, attention) for model interpretability
+
+
+5.Outputs a quantitative stress risk score
 
 
