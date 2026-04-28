@@ -21,42 +21,72 @@ This project implements a contactless stress detection system using facial therm
 
 ✔️ Generates a stress risk score (0–1)
 
+
 🛠️ Tech Stack
 1.Python
+
+
 2.OpenCV – Image processing
+
+
 3.NumPy – Data handling
+
+
 4.TensorFlow / PyTorch – Deep learning
+
+
 5.Matplotlib – Visualization
+
 
 ✨ How It Works
 1.Capture facial thermal video
+
+
 2.Detect and segment facial regions
+
+
 3.Extract:
    Temperature features
    Heart rate
    Respiration patterns
+
+
 4.Combine all features
+
+
 5.Pass data to CNN-LSTM model
+
+
 6.Apply Explainable AI
+
+
 7.Generate final stress score
 
 🧪 Experimental Phases
+
+
 1.Baseline Phase → Normal state
+
+
 2.Stress Phase → Stress induced
+
+
 3.Recovery Phase → Return to normal
 
-📂 Project Structure
-📁 stress-detection
- ┣ 📓 stress_detection_final.ipynb
- ┣ 📁 data
- ┣ 📁 models
- ┣ 📁 outputs
- ┗ 📄 README.md
+
 
 📈 Applications
+
+
 Healthcare monitoring 🏥
+
+
 Mental stress analysis 🧘
+
+
 Clinical screening 🧑‍⚕️
+
+
 Research & AI applications 🤖
 
 
